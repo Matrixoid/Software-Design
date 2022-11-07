@@ -1,7 +1,6 @@
 package ru.chmykhalov.sd.refactoring;
 
 public class Product {
-
     private String name;
     private long price;
 
@@ -25,5 +24,4 @@ public class Product {
         Product that = (Product) o;
         return this.name.equals(that.name) && this.price == that.price;
     }
-
 }
