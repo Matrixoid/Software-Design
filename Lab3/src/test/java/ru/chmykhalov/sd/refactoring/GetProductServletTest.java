@@ -9,10 +9,6 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Collections;
 
-/**
- * created by imd on 26.01.2021
- */
-
 public class GetProductServletTest extends TestBase {
 
     private final GetProductsServlet servlet = new GetProductsServlet();
