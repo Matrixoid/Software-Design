@@ -4,7 +4,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+<<<<<<< HEAD
     <groupId>ru.masmirnov.sd</groupId>
+=======
+    <groupId>ru.chmykhalov.sd</groupId>
+>>>>>>> 2eb3560de3d42543d03dba8900a025c4152181eb
     <artifactId>visitor-and-state</artifactId>
     <version>1.0-SNAPSHOT</version>
 
@@ -22,4 +26,8 @@
         </dependency>
     </dependencies>
 
+<<<<<<< HEAD
 </project>
+=======
+</project>
+>>>>>>> 2eb3560de3d42543d03dba8900a025c4152181eb
